@@ -35,16 +35,13 @@ const DraggableLayoutR1C2 = (props) => {
 
     // This can be an async call or some modal to fetch data
     let name = data.name;
-    if (data.type === elements.TEXTBOX || data.type === elements.DROPDOWN) {
-      name = window.prompt('Enter name of field');
-    }
-    const id = window.prompt('Please enter unique ID');
+    const id = new Date().getTime();
 
     const result = cb({
       ...data,
       name,
       id,
-      payload: { dropped: true }
+      payload: { dropped: true, ...data.payload }
     });
   };
 
@@ -96,11 +93,6 @@ const DraggableLayoutR1C2 = (props) => {
       </div>
     </Draggable>
   );
-};
-
-DraggableLayoutR1C2.propTypes = {
-  id: PropTypes.string.isRequired,
-  showBasicContent: PropTypes.bool.isRequired
 };
 
 export default DraggableLayoutR1C2;

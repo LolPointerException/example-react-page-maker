@@ -17,16 +17,13 @@ class DraggableLayoutR3C3 extends Component {
 
     // This can be an async call or some modal to fetch data
     let name = data.name;
-    if (data.type === elements.TEXTBOX || data.type === elements.DROPDOWN) {
-      name = window.prompt('Enter name of field');
-    }
-    const id = window.prompt('Please enter unique ID');
+    const id = new Date().getTime();
 
     const result = cb({
       ...data,
       name,
       id,
-      payload: { dropped: true }
+      payload: { dropped: true, ...data.payload }
     });
   }
 

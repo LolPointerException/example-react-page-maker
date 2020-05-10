@@ -1,0 +1,220 @@
+{
+  "name": "Colin Wren",
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2019-01-01T22:01:21.152Z"
+  },
+  "contact": {
+    "email": "colinfwren@gmail.com",
+    "website": "http://colinwren.is/awesome",
+    "other": []
+  },
+  "projects": [
+    {
+      "title": "Welcome to St George's Hospital iOS app",
+      "category": "private",
+      "description": "Working with the patient information team, patient reference groups and patient information groups I initiated a project to build an app that augmented the current Welcome to St George's Hospital booklet given out to patients when they visit St George's Hospital. The app added a searchable contact list, interactive map (with overlay of the map that is provided in the leaflet) and provided feedback mechanisms for patients and the public to send complaints and compliments about staff to the central PPI team. The app has been downloaded 900 times as of June 2013 and a QR code has been added to all patient letters so that the app is available from the first interaction the patient has with the hospital.",
+      "summary": "Created an iOS app to enhance the existing leaflet given to patients attending appointments at St George's Hospital",
+      "role": "App Developer",
+      "url": "http://www.stgeorges.nhs.uk/patientapp.asp",
+      "start": "2012-01-01",
+      "end": "2012-08-01",
+      "highlights": [
+        "Created an iOs app to enhance the existing leaflet given to patients",
+        "Used MapKit to create an interactive version of the map used to signpost around St George's",
+        "App was added to header of patient leaflets and downloaded 900 in a year",
+        "App was featured in local newspaper"
+      ],
+      "location": "London, United Kingdom",
+      "keywords": [
+        "iOS",
+        "Objective-C",
+        "MapKit",
+        "NHS"
+      ]
+    },
+    {
+      "title": "Adding St George's Hospital's interior to Google Maps",
+      "category": "private",
+      "description": "Working with Google and the St George's Hospital drawing office I led the project to bring the interior of St George's Hospital to Google Maps, the first hospital in the UK to offer indoor maps. The indoor mapping project allows for patients, visitors, the public and staff to navigate their way through St George's 14 hectare site. The maps show the wards, clinics, corridors and points of interest like shops, lifts, toilets for the seven floors at the hospital. The project caught the interest of NHS Choices who then took the indoor mapping project across the NHS with around 60 Trusts taking part. I helped the NHS Choices team and wrote a couple of case study documents to help other Trusts take part.",
+      "summary": "Added St George's Hospital's interior to Google Maps becoming the first UK hospital to do so.",
+      "role": "Project Manager",
+      "url": "https://maps.google.co.uk/maps?q=st+george%27s+hospital+blackshaw+road&hl=en&ll=51.427263,-0.174054&spn=0.002244,0.005681&sll=53.800651,-4.064941&sspn=8.71341,23.269043&hq=st+george%27s+hospital+blackshaw+road&radius=15000&t=m&z=18",
+      "start": "2012-04-01",
+      "end": "2013-06-01",
+      "highlights": [
+        "Co-ordinated both NHS and University sides of St George's Hospital to bring indoor mapping",
+        "Worked with NHS Choices to get other trusts in the UK to add their interiors to Google Maps",
+        "Maps were covered in local newspaper and in the evening standard"
+      ],
+      "location": "London, United Kingdom",
+      "keywords": [
+        "Project Management",
+        "NHS",
+        "Google Maps"
+      ]
+    }
+  ],
+  "employment": {
+    "summary": "9 years development experience, 5 year experience working on open source, 8 years experience working in healthcare. 9 months working in Test Automation",
+    "history": [
+      {
+        "position": "Cell Lead - International Optometry Retailer",
+        "employer": "BJSS",
+        "summary": "Lead a delivery cell of three Developers, one Tester and one Business Analyst to deliver new functionality and refactor client's existing website.",
+        "url": "https://bjss.com",
+        "current": true,
+        "start": "2019-09-01",
+        "location": "Leeds, West Yorkshire, United Kingdom",
+        "keywords": [
+          "PHP",
+          "Drupal",
+          "Github",
+          "Travis CI",
+          "SonarQube",
+          "Leadership"
+        ],
+        "highlights": [
+          "Lead a delivery cell of three Developers, one Tester and one Business Analyst",
+          "Reported risks and impediments to teams performance to management team"
+        ]
+      },
+      {
+        "position": "Test Automation Engineer - International Gambling Company",
+        "employer": "BJSS",
+        "url": "https://bjss.com",
+        "summary": "Working for a international gambling sector client to launch their New Jersey offering. Moved from Development to Test Automation as they grow their global platform for new markets. Developed a regression suite for testing a Kafka based sports data platform with bi-directional traceability in JIRA",
+        "start": "2018-02-01",
+        "end": "2019-08-31",
+        "location": "Leeds, West Yorkshire, United Kingdom",
+        "keywords": [
+          "JavaScript",
+          "ES6",
+          "EJS",
+          "Node.js",
+          "React",
+          "Jest",
+          "PHP",
+          "Laravel",
+          "Lumen",
+          "PHPUnit",
+          "Webdriver.io (WDIO)",
+          "webdriver-selenium",
+          "Docker",
+          "Gitlab",
+          "Gitlab CI Runners",
+          "Jenkins",
+          "SonarQube",
+          "Postman",
+          "newman",
+          "Kafka",
+          "Java"
+        ],
+        "highlights": [
+          "Built continuous delivery pipelines with Gitlab CI Runners, Jenkins and customers cloud solution",
+          "Developing New Jersey Sports book betting platform with Node.js",
+          "Re-architecting & Refactoring automated test tooling and working with existing test team to set and enforce development standards",
+          "Building quality into process by working with development team to set and meet agreed standards",
+          "Creating and executing test strategy for Kafka based streaming data adaptor",
+          "Built automation framework for end-to-end testing streaming message based application in multiple environments",
+          "Created Jest Reporter to upload test results into Client's Zephyr test management software"
+        ]
+      },
+      {
+        "position": "Software Development Manager",
+        "employer": "Neova Health",
+        "summary": "Leading a team of eight amazing people to create high quality software with a focus on delivering value to our users via Lean and Agile methods. Co-ordinated the adoption of Scrum and Continuous delivery practices as well helped to build a culture of validated learning and knowledge sharing within the company. Conducted staff performance reviews, appraisals and one-to-ones as well as other managerial duties.",
+        "start": "2015-04-01",
+        "end": "2016-03-01",
+        "url": "https://openeobs.org/",
+        "location": "London, United Kingdom",
+        "keywords": [
+          "Scrum",
+          "Continuous Delivery",
+          "Lean",
+          "Agile",
+          "Manager"
+        ],
+        "highlights": [
+          "Working with junior developers to unlock their potential and mentor them on software development practices",
+          "Bringing a validated learning culture into the companies management structure via UX tools and techniques and User Story mapping",
+          "Adopting Scrum and Continous Delivery to remove bottlenecks the development team were having",
+          "Interviewing candidates and building a team of talented developers, testers and UX practictioners",
+          "Performance managing team members who were not performing as well as they could to ensure that both the business and themselves were happy with the job they were doing",
+          "Working with the Managing Director of the company, who didn't want to let go of their DevOps responsiblities to creating provisioning scripts and tools to allow the team to carry out deployments and remove the bottleneck he caused",
+          "Working with the Managing Director of the company, who was also the Product Owner to think User Centrically instead of just pressing forward with the ideas he thought would solve problems he perceived them as having"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "Bachelor's Degree",
+    "history": [
+      {
+        "institution": "Thames Valley University",
+        "start": "2006-01-01",
+        "end": "2009-01-01",
+        "grade": "First",
+        "highlights": [
+          "Achieved a first",
+          "Built an Augmented Reality exhibition piece",
+          "Built a chatbot for my design for simulation module"
+        ],
+        "keywords": [
+          "Augmented Reality",
+          "Python",
+          "3D Animation"
+        ],
+        "summary": "Achieved a First using Augmented Reality in an artistic context",
+        "area": "Digital Art Specialist",
+        "studyType": "BA (Hons)"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Front-end Development",
+        "level": "master",
+        "skills": [
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "Chrome Developer Tools"
+        ]
+      },
+      {
+        "name": "Mobile Application Development",
+        "level": "intermediate",
+        "skills": [
+          "Objective-C",
+          "Java",
+          "Cordova",
+          "Google Cloud Messaging",
+          "Apple Push Notification Service",
+          "TestFlight"
+        ]
+      },
+      {
+        "name": "Back-end Development",
+        "level": "advanced",
+        "skills": [
+          "Python",
+          "Django",
+          "Flask",
+          "Odoo",
+          "Node",
+          "EJS",
+          "LDAP",
+          "Active Directory",
+          "Docker",
+          "Amazon Web Services",
+          "Heroku",
+          "PHP",
+          "Java"
+        ]
+      }
+    ],
+    "list": []
+  }
+}
